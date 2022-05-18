@@ -1,5 +1,5 @@
-# Date: 12/29/2018
-# Author: Mohamed
+# Date: 18/05/2022
+# Author: alvinbaby
 # Description: Instagram bruter
 
 from sys import exit
