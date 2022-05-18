@@ -1,5 +1,5 @@
-# Date: 12/28/2018
-# Author: Mohamed
+# Date: 18/05/2022
+# Author: alvinbaby
 # Description: Bruter
 
 from time import time, sleep
