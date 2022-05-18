@@ -7,6 +7,17 @@ This program will brute force any Instagram account you send it its way. Just gi
 
 I'm no longer maintaining this project.
 
+### Install Termux
+
++  ```git clone https://github.com/alvinbaby/InstaHack```
+
++  ```cd Instagram```
+
++  ```pip3 install -r requirements.txt```
+
++  ```python3 instagram.py```
+
+
 ### Requirements
 
 -   Python _v3.x.x_
