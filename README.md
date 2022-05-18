@@ -11,7 +11,7 @@ I'm no longer maintaining this project.
 
 +  ```git clone https://github.com/alvinbaby/InstaHack```
 
-+  ```cd Instagram```
++  ```cd InstaHack```
 
 +  ```pip3 install -r requirements.txt```
 
