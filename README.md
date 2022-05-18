@@ -17,6 +17,9 @@ I'm no longer maintaining this project.
 
 +  ```python3 instagram.py```
 
++  ```python3 instagram.py [username] pass.txt```
+
+
 
 ### Requirements
 
